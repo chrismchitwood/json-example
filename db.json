@@ -3,46 +3,54 @@
   {
     "userId": 1,
     "id": 1,
-    "text": "Computer Mouse Balls"
+    "title": "Computer Mouse Balls",
+    "body": "Abstract:  Mouse Balls Available as FRU (Field Replacement Unit)\nMouse balls are now available as FRU.  Therefore, if a mouse fails to operate or should it perform erratically, it may need a ball replacement.  Because of the delicate nature of this procedure, replacement of mouse balls should only be attempted by properly trained personnel."
   },
   {
     "userId": 1,
     "id": 2,
-    "text": "Title 2"
+    "title": "Title 2",
+    "body": "Updated"
   },
   {
     "userId": 1,
     "id": 3,
-    "text": "Title 3"
+    "title": "Title 3",
+    "body": "Body 3"
   },
   {
     "userId": 1,
     "id": 4,
-    "text": "Title 4"
+    "title": "Title 4",
+    "body": "Body 4"
   }  
 ],
   "texts": [
   {
     "userId": 1,
     "id": 1,
-    "text": "Abstract:  Mouse Balls Available as FRU (Field Replacement Unit)\nMouse balls are now available as FRU.  Therefore, if a mouse fails to operate or should it perform erratically, it may need a ball replacement.  Because of the delicate nature of this procedure, replacement of mouse balls should only be attempted by properly trained personnel."
+    "title": "Computer Mouse Balls",
+    "body": "Abstract:  Mouse Balls Available as FRU (Field Replacement Unit)\nMouse balls are now available as FRU.  Therefore, if a mouse fails to operate or should it perform erratically, it may need a ball replacement.  Because of the delicate nature of this procedure, replacement of mouse balls should only be attempted by properly trained personnel."
   },
   {
     "userId": 1,
     "id": 2,
-    "text": "Updated"
+    "title": "Title 2",
+    "body": "Updated"
   },
   {
     "userId": 1,
     "id": 3,
-    "text": "Body 3"
+    "title": "Title 3",
+    "body": "Body 3"
   },
   {
     "userId": 1,
     "id": 4,
-    "text": "Body 4"
+    "title": "Title 4",
+    "body": "Body 4"
   }  
-]
+],
   "profile": {
     "name": "typicode"
   }
