@@ -2,37 +2,37 @@
 {
   "posts": [
   {
-    "id": 1,
+    "id": 0,
     "text": "Computer Mouse Balls"
   },
   {
-    "id": 2,
+    "id": 1,
     "text": "My favorite pizza toppings"
   },
   {
-    "id": 3,
+    "id": 2,
     "text": "Title 3"
   },
   {
-    "id": 4,
+    "id": 3,
     "text": "Title 4"
   }  
 ],
   "texts": [
   {
-    "id": 1,
+    "id": 0,
     "text": "Abstract:  Mouse Balls Available as FRU (Field Replacement Unit)\nMouse balls are now available as FRU.  Therefore, if a mouse fails to operate or should it perform erratically, it may need a ball replacement.  Because of the delicate nature of this procedure, replacement of mouse balls should only be attempted by properly trained personnel."
   },
   {
-    "id": 2,
+    "id": 1,
     "text": "Updated"
   },
   {
-    "id": 3,
+    "id": 2,
     "text": "Body 3"
   },
   {
-    "id": 4,
+    "id": 3,
     "text": "Body 4"
   }  
 ],
