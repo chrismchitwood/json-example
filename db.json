@@ -36,6 +36,12 @@
     "text": "  This machine contains a special circuit called a 'Crisis Detector'(or 'CD').\nIt is specifically designed to detect the user's emotional state in terms of\nhow desperately the user needs to use the machine.  The machine, upon measuring\nthis state, assigns a value, called the 'Crisis Detection Level' (or 'CDL').\nIt has been programmed to subsequently create a malfunction in direct\nproportion to this CDL, thus rendering the machine totally and hopelessly\nuseless to the user for whatever period of usefulness it may have served.\n\n  Threatening the machine with violence, curses, obscenities, etc., may soothe\nthe user, but will serve no other useful purpose, as the CD is not affected,\nand the CDL is not, repeat, NOT reset.\tLikewise, attempts to use another\nmachine is likely to cause IT to malfunction, since they both belong to the\nsame union(LOCAL #347).  Just give up, and come back later, when you have\nabsolutely NO use for the machine, as by then the CD will have noted your\nabsence and will have reset the CDL for its next victim.\n\n  NOTE:  Attempts to go away and come back a few minutes later are not liable\nto fool the CD, as your level of desperation will only have increased during\nsaid period of time.  Just give up.  It's truly HOPELESS.\n\n\nSource:  http://textfiles.com/humor/COMPUTER/warning.hum"
   }  
 ],
+  "info": [
+  {
+    "id": 0,
+    "text": "Abstract:  Mouse Balls Available as FRU (Field Replacement Unit)\nMouse balls are now available as FRU.  Therefore, if a mouse fails to operate or should it perform erratically, it may need a ball replacement.  Because of the delicate nature of this procedure, replacement of mouse balls should only be attempted by properly trained personnel. \n\nSource: http://textfiles.com/100/balls.txt"
+  }
+],
   "profile": {
     "name": "typicode"
   }
